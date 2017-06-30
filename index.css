@@ -10,6 +10,10 @@ input {
 .todo-form {
     margin-left:20px;
 }
+.todo-selectAll {
+    color: #b92c28;
+    font-weight: bold;
+}
 .todo-container.container {
     width: 400px;
     background-color: #3c3c3c;
