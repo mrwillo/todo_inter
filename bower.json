@@ -1,0 +1,23 @@
+{
+  "name": "todo_inter",
+  "description": "for interview purpose",
+  "main": "index.js",
+  "authors": [
+    "willo"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "todo-app"
+  ],
+  "homepage": "https://github.com/mrwillo/todo_inter",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.6.4"
+  }
+}

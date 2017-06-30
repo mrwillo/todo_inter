@@ -1,0 +1,23 @@
+{
+  "name": "todo_inter",
+  "version": "1.0.0",
+  "description": "for interview purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ./ -a localhost -p 8000 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrwillo/todo_inter.git"
+  },
+  "keywords": [
+    "todo-app"
+  ],
+  "author": "willo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrwillo/todo_inter/issues"
+  },
+  "homepage": "https://github.com/mrwillo/todo_inter#readme"
+}

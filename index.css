@@ -1,0 +1,19 @@
+ul {
+    list-style-type: none;
+}
+input {
+    color: black;
+}
+.todo-input-err {
+    border: solid 1px red;
+}
+.todo-form {
+    margin-left:20px;
+}
+.todo-container.container {
+    width: 400px;
+    background-color: #3c3c3c;
+    color: #fff;
+    height: 50vh;
+    margin: 20px 20px;
+}
