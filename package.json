@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/mrwillo/todo_inter/issues"
   },
-  "homepage": "https://github.com/mrwillo/todo_inter#readme"
+  "homepage": "https://github.com/mrwillo/todo_inter#readme",
+  "devDependencies": {
+    "bower": "^1.8.0"
+  }
 }
